@@ -1,0 +1,6 @@
+*.png
+*.jpg
+*.ogg
+runtime*
+*.pyc
+output
